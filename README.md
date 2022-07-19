@@ -4,7 +4,7 @@ Date: July 19, 2022
 
 # Seventeenth challange of [JavaScript30](https://javascript30.com/)
 
-. To experience on your own visit [here](https://rohit-saini7.github.io/17-Sort-Without-Articles/).
+In this challange I learned hot to sort an array by removing certain parts from elements. To experience on your own visit [here](https://rohit-saini7.github.io/17-Sort-Without-Articles/).
 
 ## What is JavaScript 30
 
