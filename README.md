@@ -15,3 +15,7 @@ Learn more about the course in [here](https://javascript30.com/).
 ## Screenshot
 
 ![Screendhot](./assets/screenshot.png)
+
+## Background
+
+Image by [Irina Iriser](https://unsplash.com/@iriser) on [Unsplash](https://unsplash.com/s/photos/forest-wallpaper)
